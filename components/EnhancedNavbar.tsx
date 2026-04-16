@@ -39,7 +39,7 @@ const EnhancedNavbar = () => {
                     {/* Logo */}
                     <div className="flex-shrink-0">
                         <Link href="/" className="text-xl font-bold text-gray-800 hover:text-gray-600">
-                            MyApp
+                            <img src="/image.png" width={70} height={40} />
                         </Link>
                     </div>
 
